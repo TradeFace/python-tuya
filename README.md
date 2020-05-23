@@ -1,11 +1,19 @@
 # python-tuya
 
+Rewritten version
+-----------------
+https://github.com/TradeFace/tuya
+
+At the url above a fully rewitten version. Or find it at Pypi https://pypi.org/project/tuyaface/
+
+__This fork no longer maintained.__
+
 Modified version 
 ---------------
 - added support for devices that don't respond to 0a status request command
 - updated connection persistence
 - keep reading till footer message
-- used by https://github.com/TradeFace/tuyamqtt
+- ~used by https://github.com/TradeFace/tuyamqtt~
 
 ---------------
 Python 2.7 and Python 3.6.1 interface to ESP8266MOD WiFi smart devices from Shenzhen Xenon.
